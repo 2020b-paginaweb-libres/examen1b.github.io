@@ -71,7 +71,8 @@ los labels para usar serian:
 
 
 # Descripción general del proyecto
-
+La pagina web tendra como objetivo el dar a conocer noticias las cuales seran extraidas con el formato RSS, nuestra pagina web podra hacer bbusquedas en una base de datos de noticias, estas seran clasificadas por genero, fecha y lenguaje.
+El lector puede enterarse de primera mano todas las noticias.
 
 
 # Tipos de roles del proyecto
