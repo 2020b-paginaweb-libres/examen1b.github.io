@@ -42,11 +42,29 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 # Objetivo del proyecto
+### Facilitar la búsqueda de los RSS de las Noticias 
 
+### Brindar un lector online de fácil uso para los canales RSS 
+
+### Presentar noticias informativas con fuente totalmente fidedignas. 
+
+### Mostrar noticias RSS por categoría. 
 
 # Fundador del proyecto
+El proyecto de noticias con RSS fue funcado por David Moreno y Rodman Iñigez, estudiantes de la escuela politecnica nacional de la facultad de Sistemas Informaticos.
+Idea fundada en la materia de Aplicaciones Libres con la ayuda del Ingeniero Adrian Eguez.
 
 # Licencia del proyecto
+para la licencia nos basaremos en la GPLv3 que nos dice:
+
+La Licencia Pública General GNU es una licencia libre de copyleft para software y otros tipos de trabajos.
+
+Las licencias para la mayoría de software y otros trabajos prácticos están diseñadas para quitarle la libertad de compartir y cambiar los trabajos. Por el contrario, la Licencia Pública General GNU está destinada a garantizar su libertad para compartir y cambiar todas las versiones de un programa, para asegurarse de que siga siendo software gratuito para todos sus usuarios. Nosotros, la Free Software Foundation, usamos la Licencia Pública General GNU para la mayor parte de nuestro software; se aplica también a cualquier otro trabajo publicado de esta manera por sus autores. También puede aplicarlo a sus programas.
+
+para mayor informacion nos nos diriguimos al siguiente link
+Quiero ir a [LICENCIA](https://opensource.org/licenses/GPL-3.0)
+
+
 
 # Labels a usarse dentro del proyecto
 
