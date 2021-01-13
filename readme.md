@@ -61,16 +61,44 @@ La Licencia Pública General GNU es una licencia libre de copyleft para software
 
 Las licencias para la mayoría de software y otros trabajos prácticos están diseñadas para quitarle la libertad de compartir y cambiar los trabajos. Por el contrario, la Licencia Pública General GNU está destinada a garantizar su libertad para compartir y cambiar todas las versiones de un programa, para asegurarse de que siga siendo software gratuito para todos sus usuarios. Nosotros, la Free Software Foundation, usamos la Licencia Pública General GNU para la mayor parte de nuestro software; se aplica también a cualquier otro trabajo publicado de esta manera por sus autores. También puede aplicarlo a sus programas.
 
-para mayor informacion nos nos diriguimos al siguiente link
-Quiero ir a [LICENCIA](https://opensource.org/licenses/GPL-3.0)
+Para mayor informacion nos nos diriguimos al siguiente link
+Ir a [LICENCIA](https://opensource.org/licenses/GPL-3.0)
 
 
 
 # Labels a usarse dentro del proyecto
+los labels para usar serian:
+
 
 # Descripción general del proyecto
 
+
+
 # Tipos de roles del proyecto
 
-# Tipo de gestión del proyecto, describir un poco a detalle: ( la comunidad decide, los que hacen mas commits deciden, es una dictadura benevolente )
+Los Roles seria:
+Planificación o división de tareas:
+Es el grupo que estará a cargo de repartir las cargas del trabajo en todas las áreas.
+Soporte o reparación de issuse: 
+Es el área encargada de resolver problemas que tuviera el programa durante su desarrollo o posterior a su lanzamiento
+Documentación:
+Es el área en el cual las personas documentan los avances y modificaciones que tiene el proyecto estarán repartidos por todas las diferentes áreas del proyecto.
+Actualizaciones y Novedades:
+Son los encargados de hacer conocer a las personas sobre las actualizaciones y novedades del programa en todas las redes que se obtendría acceso
+Ayuda: 
+Es el área que se encarga de dar ayuda para la ejecución del programa y su correcto montaje
+Programadores.
+Es el área que se encarga de toda la programación 
+Directores:
+Son las personas que están repartidas por todas las áreas del proyecto ya que son los encargados de verificar el avance.
+Diseñadores:
+Son el área de desarrollo grafico para mejorar las partes visuales.
+
+
+
+# Tipo de gestión del proyecto, describir un poco a detalle: 
+
+Para la agregación de avances o necesidades del proyecto en toda la comunidad habrá reuniones extraordinarias o comités principalmente con lluvias de ideas las cuales se espera obtener una gran cantidad de características para el proyecto sin perder el objetivo principal, y según eso hacer la planificación y agregación de cosas al proyecto. 
+El rol de planificacion se encargaria de realizar las diferentes reuniones ademas de que el Director tomaria la ultima palabra en la agregacion de cambios principalmente cuando no se este totalmente deacuerdo
+Los canales de comunicación serán solo por discord, las personas que estén dentro del servidor podrán dar su opinión, pero las personas que darán su voto para aceptarlo o archivarlo ideas o avances serán aquellas que llevan mas tiempo dando sus aportes, si se diera el caso de que no asistan todos solo se tomara en cuenta a los que estén presentes y más peso tendrán los que hayan dado mas aportes beneficiosos. 
 
