@@ -103,3 +103,5 @@ Para la agregación de avances o necesidades del proyecto en toda la comunidad h
 El rol de planificacion se encargaria de realizar las diferentes reuniones ademas de que el Director tomaria la ultima palabra en la agregacion de cambios principalmente cuando no se este totalmente deacuerdo
 Los canales de comunicación serán solo por discord, las personas que estén dentro del servidor podrán dar su opinión, pero las personas que darán su voto para aceptarlo o archivarlo ideas o avances serán aquellas que llevan mas tiempo dando sus aportes, si se diera el caso de que no asistan todos solo se tomara en cuenta a los que estén presentes y más peso tendrán los que hayan dado mas aportes beneficiosos. 
 
+
+### realizando cambio
